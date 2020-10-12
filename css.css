@@ -1,0 +1,213 @@
+.main {
+	width: 100%;
+	height: 100%;
+	background: grey ;
+	position: relative;
+}
+.header {
+	width: 100%;
+	height: 100px;
+	background:;
+	position: relative;
+	
+}
+.akkount {
+	width: 20%;
+	height:100%;
+	float: right;
+	background-color: white;
+
+}
+
+.akkount p {
+	padding: 20px;
+
+}
+
+.solar_system {
+	width: 19%;
+	height:100%;
+	float: right;
+	background-color: white;
+	margin-right: 15px;
+	padding: 20px;
+	float: right;
+}
+
+.info_panel {
+	width: 19%;
+	height:100%;
+	float: right;
+	background-color: white;
+	margin-right: 15px;
+	padding: 20px;
+	float: right;
+}
+
+.planet_panel {
+	width: 19%;
+	height:100%;
+	float: right;
+	background-color: white;
+	margin-right: 15px;
+	padding: 20px;
+	float: right;
+}
+
+.main_panel {
+	width: 20%;
+	height:100%;
+	float: right;
+	background-color: white;
+	padding: 20px;
+	margin-right: 5px;
+	float: left;
+}
+
+
+
+.logo{
+	width: 100%;
+	height: 70%;
+	border: 1px solid black;
+	float: left;
+}
+
+.nav {
+	width: 100%;
+	height: 50px;
+	background: ;
+	/*text-align: justify;*/
+	text-indent: 1.5em;
+	color: black;
+	position: absolute;
+	bottom: 0%;
+	box-sizing: border-box;
+
+}
+
+#text {
+	text-align: center;
+	font-style: normal;
+	font-weight: 900;
+	font-size: 50px;
+	letter-spacing: 15px;
+
+
+}
+
+.login_ikon {
+	text-align: center;
+}
+a {
+	color: black;
+	text-align: justify;
+
+}
+
+.navig {
+	width: 100%;
+	height:100%;
+}
+.nav{
+	width: 100%;
+	height: 20%;
+	text-indent: em;
+	text-decoration: none;
+	text-align: justify;
+}
+
+
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+}
+
+.topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.active {
+    background-color: #4CAF50;
+    color: white;
+}
+.topnav .icon {
+    display: none;
+}
+
+#reglog1 {
+	float: right;
+}
+
+
+
+.content {
+	width: 100%;
+	height: 100%;
+	background: white;
+
+	
+}
+
+
+.aside {
+	width: 30%;
+	height: 50%;
+	background: white;
+	float: right;
+	margin: 40px;
+	border-radius: 20px;
+	padding: 50px;
+	
+
+}
+
+.news_bar {
+	width: 100%;
+	height: 30%;
+	background: grey;
+	padding: 30px;
+	border-radius: 20px;
+	border: 10px solid white;
+	box-sizing: border-box;
+	
+}
+
+
+
+article {
+	width: 50%;
+	height: 80%;
+	background: grey;
+	margin: 40px;
+	margin-right: 20px;
+	padding: 50px;
+	left: 150px;
+	position: relative;
+	border-radius: 20px;
+}
+
+article img:hover {
+	width: 500px;
+	height: 300px;
+}
+
+
+.footer {
+	width: 100%;
+	height: 100px;
+	background: white;
+	text-align: center;
+	padding: 20px;
+}
